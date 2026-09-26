@@ -4,6 +4,16 @@ A repository of core Machine Learning algorithms, optimization techniques, and m
 
 ---
 
+## Table of Contents
+
+- [Implemented Algorithms & Modules](#implemented-algorithms--modules)
+- [Detailed Methodologies](#detailed-methodologies)
+- [Project Structure](#project-structure)
+- [Prerequisites & Execution](#prerequisites--execution)
+- [Author](#author)
+
+---
+
 ## Implemented Algorithms & Modules
 
 | Script | Category | Method / Technique | Problem Scenario |
